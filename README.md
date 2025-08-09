@@ -91,7 +91,9 @@ Relie is designed with care. It monitors for trigger words like "suicide", "self
 
 **
 🙌 Author**
-Developed by **Siddhartha Namilikonda**
+Developed by
+**Shiva Shankar Koduri**
+**Siddhartha Namilikonda** 
 SR University | Computer Science Engineering
 
 
